@@ -11,11 +11,6 @@ export class AppComponent {
       type: 'server',
       name: 'Seyha',
       content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet blanditiis deserunt, dolor ducimus eaque excepturi facere id ipsa libero maiores maxime, reiciendis sapiente soluta tempora tenetur voluptatem. Fuga, nulla?'
-    },
-    {
-      type: 'blueprint',
-      name: 'Seyha',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet blanditiis deserunt, dolor ducimus eaque excepturi facere id ipsa libero maiores maxime, reiciendis sapiente soluta tempora tenetur voluptatem. Fuga, nulla?'
     }
   ];
 
